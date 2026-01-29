@@ -160,10 +160,11 @@
 			"version": 35,
 			"versionNonce": 49942456,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769719232225,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "Zd9YfF8s",
@@ -190,10 +191,11 @@
 			"version": 49,
 			"versionNonce": 736385992,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769719238013,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "4pCtSKVm",
@@ -220,10 +222,11 @@
 			"version": 61,
 			"versionNonce": 853228488,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769719243287,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "WYjff0HV",
@@ -250,10 +253,11 @@
 			"version": 46,
 			"versionNonce": 1035377848,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769719246491,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "K5FMFQfZ",
@@ -280,10 +284,11 @@
 			"version": 62,
 			"versionNonce": 588483272,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769719249624,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "QoyS7pEf",
@@ -310,10 +315,48 @@
 			"version": 81,
 			"versionNonce": 1672429496,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769719258212,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"hasTextLink": false
+		},
+		{
+			"id": "Np4d43SO",
+			"type": "text",
+			"x": -264.4340652155637,
+			"y": 1870.4320876370973,
+			"width": 206.77987670898438,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aA",
+			"roundness": null,
+			"seed": 914967240,
+			"version": 22,
+			"versionNonce": 1187053000,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1769720765721,
+			"locked": false,
+			"text": "hey arun how are you",
+			"rawText": "hey arun how are you",
+			"fontSize": 20,
+			"fontFamily": 5,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "hey arun how are you",
+			"autoResize": true,
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -333,10 +376,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 350.89996337890625,
-		"scrollY": -1594.4140510559082,
+		"scrollX": 1216.4915139886534,
+		"scrollY": -469.5262050983999,
 		"zoom": {
-			"value": 2
+			"value": 0.418042
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
