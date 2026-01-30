@@ -448,7 +448,7 @@
 			"version": 385,
 			"versionNonce": 714029882,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769780860390,
 			"link": null,
 			"locked": false,
@@ -466,7 +466,8 @@
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "kMj5zak2",
@@ -476,7 +477,7 @@
 			"width": 821.0877685546875,
 			"height": 450,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -488,11 +489,11 @@
 			"index": "aG",
 			"roundness": null,
 			"seed": 1393888230,
-			"version": 146,
-			"versionNonce": 678989114,
+			"version": 147,
+			"versionNonce": 20960038,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1769781051421,
+			"boundElements": [],
+			"updated": 1769781173397,
 			"locked": false,
 			"text": "Problems faced:\n\nNote the config must be error-free cause that\n can break everything \n\nproblem occurred: config file \nnetworking:\n  apiServerAddress: \"192.168.6.128\"  \n  apiServerPort: 33893\n",
 			"rawText": "Problems faced:\n\nNote the config must be error-free cause that\n can break everything \n\nproblem occurred: config file \nnetworking:\n  apiServerAddress: \"192.168.6.128\"  \n  apiServerPort: 33893\n",
@@ -504,7 +505,8 @@
 			"originalText": "Problems faced:\n\nNote the config must be error-free cause that\n can break everything \n\nproblem occurred: config file \nnetworking:\n  apiServerAddress: \"192.168.6.128\"  \n  apiServerPort: 33893\n",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "NtBzV3ab",
@@ -514,7 +516,7 @@
 			"width": 1339.3795166015625,
 			"height": 135,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -526,11 +528,11 @@
 			"index": "aH",
 			"roundness": null,
 			"seed": 1437802554,
-			"version": 10,
-			"versionNonce": 631435002,
+			"version": 11,
+			"versionNonce": 554926842,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1769781136023,
+			"boundElements": [],
+			"updated": 1769781175391,
 			"locked": false,
 			"text": "Why apiServerAddress & apiServerPort in kind config? → \nTo ensure each kind cluster API server is reachable from the ArgoCD pods. \nThis avoids conflicts (since kind defaults to random localhost ports).",
 			"rawText": "Why apiServerAddress & apiServerPort in kind config? → \nTo ensure each kind cluster API server is reachable from the ArgoCD pods. \nThis avoids conflicts (since kind defaults to random localhost ports).",
@@ -542,13 +544,59 @@
 			"originalText": "Why apiServerAddress & apiServerPort in kind config? → \nTo ensure each kind cluster API server is reachable from the ArgoCD pods. \nThis avoids conflicts (since kind defaults to random localhost ports).",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
+		},
+		{
+			"id": "vovCnIVBYJs3XIj-AOVpc",
+			"type": "line",
+			"x": 946.2003551482085,
+			"y": 3861.72048834403,
+			"width": 1419.9104568412836,
+			"height": 17.084514117316758,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aI",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1196057638,
+			"version": 139,
+			"versionNonce": 1565128742,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1769781180852,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1419.9104568412836,
+					-17.084514117316758
+				]
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"polygon": false
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -562,10 +610,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": -9.859132036466411,
-		"scrollY": -2712.628405476985,
+		"scrollX": 535.878818677159,
+		"scrollY": -3379.9438884833044,
 		"zoom": {
-			"value": 0.438607
+			"value": 0.421435
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
