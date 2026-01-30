@@ -572,7 +572,7 @@
 			"version": 139,
 			"versionNonce": 1565128742,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769781180852,
 			"link": null,
 			"locked": false,
@@ -590,7 +590,8 @@
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "xAuZ4wky",
@@ -615,7 +616,7 @@
 			"version": 33,
 			"versionNonce": 281942182,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769782189912,
 			"locked": false,
 			"text": "argocd version --client",
@@ -628,7 +629,8 @@
 			"originalText": "argocd version --client",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "IjFrh3nk",
@@ -653,7 +655,7 @@
 			"version": 70,
 			"versionNonce": 557328826,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769782129176,
 			"locked": false,
 			"text": "argocd login: argocd login <localhost:8080 || public ip:8080>",
@@ -666,7 +668,8 @@
 			"originalText": "argocd login: argocd login <localhost:8080 || public ip:8080>",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "IHjEF2Er",
@@ -691,7 +694,7 @@
 			"version": 186,
 			"versionNonce": 1727478138,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769782173993,
 			"locked": false,
 			"text": "    get private ip# : ip a || hostname -I ||  ",
@@ -704,7 +707,8 @@
 			"originalText": "    get private ip# : ip a || hostname -I ||  ",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "usXqMSza",
@@ -729,7 +733,7 @@
 			"version": 53,
 			"versionNonce": 2098294758,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769782215072,
 			"locked": false,
 			"text": "argocd account get-user-info",
@@ -742,7 +746,8 @@
 			"originalText": "argocd account get-user-info",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "2NCLZAZh",
@@ -767,7 +772,7 @@
 			"version": 5,
 			"versionNonce": 1823966950,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769782500181,
 			"locked": false,
 			"text": "kubectl config get-contexts\nargocd cluster add kind-tws-cluster --name argocd-cluster --insecure",
@@ -780,7 +785,8 @@
 			"originalText": "kubectl config get-contexts\nargocd cluster add kind-tws-cluster --name argocd-cluster --insecure",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "4U7JUcPEho9OQpv_SKVTO",
@@ -807,7 +813,7 @@
 			"version": 79,
 			"versionNonce": 268906874,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769805622828,
 			"link": null,
 			"locked": false,
@@ -825,7 +831,8 @@
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "dgyWWOkS",
@@ -850,7 +857,7 @@
 			"version": 215,
 			"versionNonce": 804379898,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769805691700,
 			"locked": false,
 			"text": "Procdeure for connecting argocd to a cluster while on localhost + public\n\n",
@@ -863,7 +870,8 @@
 			"originalText": "Procdeure for connecting argocd to a cluster while on localhost + public\n\n",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "x2GUv1nF",
@@ -888,7 +896,7 @@
 			"version": 119,
 			"versionNonce": 487930150,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769805845894,
 			"locked": false,
 			"text": "step1: get config conetext: kubectl config get-context\n\nstep2: identify your cluster you wanna connext to: \n         argocd cluster add kind-argocd-cluster --name argocd-cluster --insecure",
@@ -901,7 +909,8 @@
 			"originalText": "step1: get config conetext: kubectl config get-context\n\nstep2: identify your cluster you wanna connext to: \n         argocd cluster add kind-argocd-cluster --name argocd-cluster --insecure",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "AsX54Afz",
@@ -926,7 +935,7 @@
 			"version": 11,
 			"versionNonce": 1009878394,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769805863851,
 			"locked": false,
 			"text": "step3: argocd cluster list",
@@ -939,7 +948,8 @@
 			"originalText": "step3: argocd cluster list",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "SxN14Ibo",
@@ -964,7 +974,7 @@
 			"version": 84,
 			"versionNonce": 18601638,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769805938661,
 			"locked": false,
 			"text": "result: \n SERVER                          NAME            VERSION  STATUS      \nhttps://172.31.19.178:33893     argocd-cluster  1.33     Successful\nhttps://kubernetes.default.svc  in-cluster               Unknown     . ",
@@ -977,7 +987,8 @@
 			"originalText": "result: \n SERVER                          NAME            VERSION  STATUS      \nhttps://172.31.19.178:33893     argocd-cluster  1.33     Successful\nhttps://kubernetes.default.svc  in-cluster               Unknown     . ",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "PkSSqUBp",
@@ -1002,7 +1013,7 @@
 			"version": 848,
 			"versionNonce": 489816506,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769806532420,
 			"locked": false,
 			"text": "Notes on networking and REGISTERING  A CLUSTER TO ARGOCD when working with kind clusters on local system:\n\nWhen you run argocd,it runs inside a docker container in kind cluster.Now when argocd tries connecting to the server \naddress of the cluster which runs on the local system's(localhost || 127.0.0.1 ) ,The problem arises \nNote: ARGOCD is running inside a docker container(of cluster) inside a docker container(actual conatiner working as \na worker node) .So when argocd tries connecting to the 127.0.0.1 it hits its own local localhost instead of the local system's\non which the cluster is running.\nSo we need a go around to solve this problem\n",
@@ -1015,7 +1026,8 @@
 			"originalText": "Notes on networking and REGISTERING  A CLUSTER TO ARGOCD when working with kind clusters on local system:\n\nWhen you run argocd,it runs inside a docker container in kind cluster.Now when argocd tries connecting to the server \naddress of the cluster which runs on the local system's(localhost || 127.0.0.1 ) ,The problem arises \nNote: ARGOCD is running inside a docker container(of cluster) inside a docker container(actual conatiner working as \na worker node) .So when argocd tries connecting to the 127.0.0.1 it hits its own local localhost instead of the local system's\non which the cluster is running.\nSo we need a go around to solve this problem\n",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "Nwiyfmdd",
@@ -1040,7 +1052,7 @@
 			"version": 187,
 			"versionNonce": 25883942,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769806617156,
 			"locked": false,
 			"text": "The catch is to use an internal config context for the argocd so it can directly access the localhost of local system's",
@@ -1053,7 +1065,8 @@
 			"originalText": "The catch is to use an internal config context for the argocd so it can directly access the localhost of local system's",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "xDSnpO6d",
@@ -1061,7 +1074,7 @@
 			"x": -387.17874874207314,
 			"y": 6311.710101103959,
 			"width": 3052.761962890625,
-			"height": 1710,
+			"height": 1800,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1075,23 +1088,24 @@
 			"index": "ab",
 			"roundness": null,
 			"seed": 1379991270,
-			"version": 117,
-			"versionNonce": 1840810278,
+			"version": 137,
+			"versionNonce": 1434482234,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1769807271464,
+			"boundElements": [],
+			"updated": 1769807412507,
 			"locked": false,
-			"text": "1. The Logic: Why the \"Workaround\"?\n\nThink of your kind cluster as a house with two different entrances:\nThe Front Door (127.0.0.1): Accessible only to you (your host machine).\nThe Back Door (172.x.x.x): Accessible only to other houses on the same street (other Docker containers).\n\nWhen you run argocd cluster add, the CLI acts as a courier. It looks at your Kubeconfig Context, copies the address it finds there, and \"pastes\" it into Argo CD’s settings.\nThe Problem: If you give the CLI the \"Front Door\" address, Argo CD (which lives in a container) will try to use it and fail because it's not \"you.\"\nThe Fix: We created a Context Switch. We temporarily pointed a new context to the \"Back Door\" address. \nThe CLI copied that internal address, gave it to Argo CD, and now Argo CD can \"walk across the street\" to the other container.\n\n\n2. Outline of Your Journey (The \"Why\" and \"How\")\nHere is a summary of the problem you solved:\n\nThe Goal: Register a Kubernetes cluster into Argo CD when both are running inside kind (Docker).\n\nThe Conflict:\nBy default, kind uses 127.0.0.1 for local access.\nArgo CD pods cannot use 127.0.0.1 to talk to other containers.\n\nThe Solution (The Context Strategy):\n\na) Identify Internal IP: Used docker inspect to find the internal Docker network IP of the cluster.\nbash#:    kubectl config get-contexts\n\nb) Duplicate Context: Created a new Kubernetes context specifically for this task so your primary connection remained untouched.\n        bash#:   # Replace <CLUSTER_NAME> and <USER_NAME> with the values from step 1\n                    kubectl config set-context kind-argo-internal --cluster=<CLUSTER_NAME> --user=<USER_NAME>\n\nc) Point to Internal IP: Updated that new context's server URL to use the 172.x.x.x address.\nbash#:   docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' kind-control-plane\n            or kubectl describe node/tws-cluster-control-plane  \nbash#:    # Use the IP from the previous step (e.g., 172.18.0.3)\n            kubectl config set-cluster kind-internal-endpoint --server=https://<DOCKER_INTERNAL_IP>:6443 --insecure-skip-tls-verify\n\nd) Register: Used argocd cluster add with that new context. Argo CD \"learned\" the internal IP, while your computer kept its 127.0.0.1 connection.\n",
-			"rawText": "1. The Logic: Why the \"Workaround\"?\n\nThink of your kind cluster as a house with two different entrances:\nThe Front Door (127.0.0.1): Accessible only to you (your host machine).\nThe Back Door (172.x.x.x): Accessible only to other houses on the same street (other Docker containers).\n\nWhen you run argocd cluster add, the CLI acts as a courier. It looks at your Kubeconfig Context, copies the address it finds there, and \"pastes\" it into Argo CD’s settings.\nThe Problem: If you give the CLI the \"Front Door\" address, Argo CD (which lives in a container) will try to use it and fail because it's not \"you.\"\nThe Fix: We created a Context Switch. We temporarily pointed a new context to the \"Back Door\" address. \nThe CLI copied that internal address, gave it to Argo CD, and now Argo CD can \"walk across the street\" to the other container.\n\n\n2. Outline of Your Journey (The \"Why\" and \"How\")\nHere is a summary of the problem you solved:\n\nThe Goal: Register a Kubernetes cluster into Argo CD when both are running inside kind (Docker).\n\nThe Conflict:\nBy default, kind uses 127.0.0.1 for local access.\nArgo CD pods cannot use 127.0.0.1 to talk to other containers.\n\nThe Solution (The Context Strategy):\n\na) Identify Internal IP: Used docker inspect to find the internal Docker network IP of the cluster.\nbash#:    kubectl config get-contexts\n\nb) Duplicate Context: Created a new Kubernetes context specifically for this task so your primary connection remained untouched.\n        bash#:   # Replace <CLUSTER_NAME> and <USER_NAME> with the values from step 1\n                    kubectl config set-context kind-argo-internal --cluster=<CLUSTER_NAME> --user=<USER_NAME>\n\nc) Point to Internal IP: Updated that new context's server URL to use the 172.x.x.x address.\nbash#:   docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' kind-control-plane\n            or kubectl describe node/tws-cluster-control-plane  \nbash#:    # Use the IP from the previous step (e.g., 172.18.0.3)\n            kubectl config set-cluster kind-internal-endpoint --server=https://<DOCKER_INTERNAL_IP>:6443 --insecure-skip-tls-verify\n\nd) Register: Used argocd cluster add with that new context. Argo CD \"learned\" the internal IP, while your computer kept its 127.0.0.1 connection.\n",
+			"text": "1. The Logic: Why the \"Workaround\"?\n\nThink of your kind cluster as a house with two different entrances:\nThe Front Door (127.0.0.1): Accessible only to you (your host machine).\nThe Back Door (172.x.x.x): Accessible only to other houses on the same street (other Docker containers).\n\nWhen you run argocd cluster add, the CLI acts as a courier. It looks at your Kubeconfig Context, copies the address it finds there, and \"pastes\" it into Argo CD’s settings.\nThe Problem: If you give the CLI the \"Front Door\" address, Argo CD (which lives in a container) will try to use it and fail because it's not \"you.\"\nThe Fix: We created a Context Switch. We temporarily pointed a new context to the \"Back Door\" address. \nThe CLI copied that internal address, gave it to Argo CD, and now Argo CD can \"walk across the street\" to the other container.\n\n\n2. Outline of Your Journey (The \"Why\" and \"How\")\nHere is a summary of the problem you solved:\n\nThe Goal: Register a Kubernetes cluster into Argo CD when both are running inside kind (Docker).\n\nThe Conflict:\nBy default, kind uses 127.0.0.1 for local access.\nArgo CD pods cannot use 127.0.0.1 to talk to other containers.\n\nThe Solution (The Context Strategy):\n\na) Identify Internal IP: Used docker inspect to find the internal Docker network IP of the cluster.\nbash#:    kubectl config get-contexts\n\nb) Duplicate Context: Created a new Kubernetes context specifically for this task so your primary connection remained untouched.\n        bash#:   # Replace <CLUSTER_NAME> and <USER_NAME> with the values from step 1\n                    kubectl config set-context kind-argo-internal --cluster=<CLUSTER_NAME> --user=<USER_NAME>\n\nc) Point to Internal IP: Updated that new context's server URL to use the 172.x.x.x address.\nbash#:   docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' kind-control-plane\n            or kubectl describe node/tws-cluster-control-plane  \nbash#:    # Use the IP from the previous step (e.g., 172.18.0.3)\n            kubectl config set-cluster kind-internal-endpoint --server=https://<DOCKER_INTERNAL_IP>:6443 --insecure-skip-tls-verify\n\nd) Register: Used argocd cluster add with that new context. Argo CD \"learned\" the internal IP, while your computer kept its 127.0.0.1 connection.\nbash#:        argocd cluster add kind-argo-internal --name target-cluster\n\n",
+			"rawText": "1. The Logic: Why the \"Workaround\"?\n\nThink of your kind cluster as a house with two different entrances:\nThe Front Door (127.0.0.1): Accessible only to you (your host machine).\nThe Back Door (172.x.x.x): Accessible only to other houses on the same street (other Docker containers).\n\nWhen you run argocd cluster add, the CLI acts as a courier. It looks at your Kubeconfig Context, copies the address it finds there, and \"pastes\" it into Argo CD’s settings.\nThe Problem: If you give the CLI the \"Front Door\" address, Argo CD (which lives in a container) will try to use it and fail because it's not \"you.\"\nThe Fix: We created a Context Switch. We temporarily pointed a new context to the \"Back Door\" address. \nThe CLI copied that internal address, gave it to Argo CD, and now Argo CD can \"walk across the street\" to the other container.\n\n\n2. Outline of Your Journey (The \"Why\" and \"How\")\nHere is a summary of the problem you solved:\n\nThe Goal: Register a Kubernetes cluster into Argo CD when both are running inside kind (Docker).\n\nThe Conflict:\nBy default, kind uses 127.0.0.1 for local access.\nArgo CD pods cannot use 127.0.0.1 to talk to other containers.\n\nThe Solution (The Context Strategy):\n\na) Identify Internal IP: Used docker inspect to find the internal Docker network IP of the cluster.\nbash#:    kubectl config get-contexts\n\nb) Duplicate Context: Created a new Kubernetes context specifically for this task so your primary connection remained untouched.\n        bash#:   # Replace <CLUSTER_NAME> and <USER_NAME> with the values from step 1\n                    kubectl config set-context kind-argo-internal --cluster=<CLUSTER_NAME> --user=<USER_NAME>\n\nc) Point to Internal IP: Updated that new context's server URL to use the 172.x.x.x address.\nbash#:   docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' kind-control-plane\n            or kubectl describe node/tws-cluster-control-plane  \nbash#:    # Use the IP from the previous step (e.g., 172.18.0.3)\n            kubectl config set-cluster kind-internal-endpoint --server=https://<DOCKER_INTERNAL_IP>:6443 --insecure-skip-tls-verify\n\nd) Register: Used argocd cluster add with that new context. Argo CD \"learned\" the internal IP, while your computer kept its 127.0.0.1 connection.\nbash#:        argocd cluster add kind-argo-internal --name target-cluster\n\n",
 			"fontSize": 36,
 			"fontFamily": 5,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. The Logic: Why the \"Workaround\"?\n\nThink of your kind cluster as a house with two different entrances:\nThe Front Door (127.0.0.1): Accessible only to you (your host machine).\nThe Back Door (172.x.x.x): Accessible only to other houses on the same street (other Docker containers).\n\nWhen you run argocd cluster add, the CLI acts as a courier. It looks at your Kubeconfig Context, copies the address it finds there, and \"pastes\" it into Argo CD’s settings.\nThe Problem: If you give the CLI the \"Front Door\" address, Argo CD (which lives in a container) will try to use it and fail because it's not \"you.\"\nThe Fix: We created a Context Switch. We temporarily pointed a new context to the \"Back Door\" address. \nThe CLI copied that internal address, gave it to Argo CD, and now Argo CD can \"walk across the street\" to the other container.\n\n\n2. Outline of Your Journey (The \"Why\" and \"How\")\nHere is a summary of the problem you solved:\n\nThe Goal: Register a Kubernetes cluster into Argo CD when both are running inside kind (Docker).\n\nThe Conflict:\nBy default, kind uses 127.0.0.1 for local access.\nArgo CD pods cannot use 127.0.0.1 to talk to other containers.\n\nThe Solution (The Context Strategy):\n\na) Identify Internal IP: Used docker inspect to find the internal Docker network IP of the cluster.\nbash#:    kubectl config get-contexts\n\nb) Duplicate Context: Created a new Kubernetes context specifically for this task so your primary connection remained untouched.\n        bash#:   # Replace <CLUSTER_NAME> and <USER_NAME> with the values from step 1\n                    kubectl config set-context kind-argo-internal --cluster=<CLUSTER_NAME> --user=<USER_NAME>\n\nc) Point to Internal IP: Updated that new context's server URL to use the 172.x.x.x address.\nbash#:   docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' kind-control-plane\n            or kubectl describe node/tws-cluster-control-plane  \nbash#:    # Use the IP from the previous step (e.g., 172.18.0.3)\n            kubectl config set-cluster kind-internal-endpoint --server=https://<DOCKER_INTERNAL_IP>:6443 --insecure-skip-tls-verify\n\nd) Register: Used argocd cluster add with that new context. Argo CD \"learned\" the internal IP, while your computer kept its 127.0.0.1 connection.\n",
+			"originalText": "1. The Logic: Why the \"Workaround\"?\n\nThink of your kind cluster as a house with two different entrances:\nThe Front Door (127.0.0.1): Accessible only to you (your host machine).\nThe Back Door (172.x.x.x): Accessible only to other houses on the same street (other Docker containers).\n\nWhen you run argocd cluster add, the CLI acts as a courier. It looks at your Kubeconfig Context, copies the address it finds there, and \"pastes\" it into Argo CD’s settings.\nThe Problem: If you give the CLI the \"Front Door\" address, Argo CD (which lives in a container) will try to use it and fail because it's not \"you.\"\nThe Fix: We created a Context Switch. We temporarily pointed a new context to the \"Back Door\" address. \nThe CLI copied that internal address, gave it to Argo CD, and now Argo CD can \"walk across the street\" to the other container.\n\n\n2. Outline of Your Journey (The \"Why\" and \"How\")\nHere is a summary of the problem you solved:\n\nThe Goal: Register a Kubernetes cluster into Argo CD when both are running inside kind (Docker).\n\nThe Conflict:\nBy default, kind uses 127.0.0.1 for local access.\nArgo CD pods cannot use 127.0.0.1 to talk to other containers.\n\nThe Solution (The Context Strategy):\n\na) Identify Internal IP: Used docker inspect to find the internal Docker network IP of the cluster.\nbash#:    kubectl config get-contexts\n\nb) Duplicate Context: Created a new Kubernetes context specifically for this task so your primary connection remained untouched.\n        bash#:   # Replace <CLUSTER_NAME> and <USER_NAME> with the values from step 1\n                    kubectl config set-context kind-argo-internal --cluster=<CLUSTER_NAME> --user=<USER_NAME>\n\nc) Point to Internal IP: Updated that new context's server URL to use the 172.x.x.x address.\nbash#:   docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' kind-control-plane\n            or kubectl describe node/tws-cluster-control-plane  \nbash#:    # Use the IP from the previous step (e.g., 172.18.0.3)\n            kubectl config set-cluster kind-internal-endpoint --server=https://<DOCKER_INTERNAL_IP>:6443 --insecure-skip-tls-verify\n\nd) Register: Used argocd cluster add with that new context. Argo CD \"learned\" the internal IP, while your computer kept its 127.0.0.1 connection.\nbash#:        argocd cluster add kind-argo-internal --name target-cluster\n\n",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"text": "\r\n",
@@ -1131,6 +1145,96 @@
 			"lineHeight": 1.25,
 			"autoResize": true,
 			"index": "ac"
+		},
+		{
+			"id": "1saTr7D5wH1U9q4danLp-",
+			"type": "line",
+			"x": -415.3463086256338,
+			"y": 5719.049358281372,
+			"width": 2576.093061157592,
+			"height": 2.218823098768553,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ad",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1081065702,
+			"version": 104,
+			"versionNonce": 817108070,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1769807601467,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2576.093061157592,
+					-2.218823098768553
+				]
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"polygon": false
+		},
+		{
+			"id": "ahvyfIq2Lok2QnH5J5tM_",
+			"type": "line",
+			"x": -375.40681570638765,
+			"y": 8095.445208770764,
+			"width": 2664.8473393911595,
+			"height": 39.93949291924673,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ae",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1586157178,
+			"version": 171,
+			"versionNonce": 117216570,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1769807613013,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2664.8473393911595,
+					-39.93949291924673
+				]
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"polygon": false
 		}
 	],
 	"appState": {
@@ -1150,10 +1254,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 450.983456724148,
-		"scrollY": -6279.934622697372,
+		"scrollX": 1075.062170982998,
+		"scrollY": -5139.641031148257,
 		"zoom": {
-			"value": 0.465853
+			"value": 0.298564
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
