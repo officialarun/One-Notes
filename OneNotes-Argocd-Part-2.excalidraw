@@ -993,7 +993,7 @@
 			"version": 247,
 			"versionNonce": 1581063398,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769824366717,
 			"locked": false,
 			"text": "Once the container starts, give it ~30 seconds and check your nodes and proxies:\nCheck Nodes: kubectl get nodes (Worker 3 should move to Ready).\nCheck Proxies: kubectl get pods -n kube-system -l k8s-app=kube-proxy (The crashing pod should now stay Running).\nCheck ArgoCD: kubectl get pods -n argocd (The application-controller should finally pass its readiness probe).",
@@ -1006,7 +1006,8 @@
 			"originalText": "Once the container starts, give it ~30 seconds and check your nodes and proxies:\nCheck Nodes: kubectl get nodes (Worker 3 should move to Ready).\nCheck Proxies: kubectl get pods -n kube-system -l k8s-app=kube-proxy (The crashing pod should now stay Running).\nCheck ArgoCD: kubectl get pods -n argocd (The application-controller should finally pass its readiness probe).",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "xKbFudIS",
@@ -1031,7 +1032,7 @@
 			"version": 83,
 			"versionNonce": 1956867750,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769824363717,
 			"locked": false,
 			"text": "Verify Cluster Health:",
@@ -1044,7 +1045,8 @@
 			"originalText": "Verify Cluster Health:",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "7lyEyfbX",
@@ -1069,7 +1071,7 @@
 			"version": 80,
 			"versionNonce": 1569373670,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769824447051,
 			"locked": false,
 			"text": "To check which process is occupying a particular port:\n",
@@ -1082,7 +1084,8 @@
 			"originalText": "To check which process is occupying a particular port:\n",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
 		},
 		{
 			"id": "sqfacFkd",
@@ -1107,7 +1110,7 @@
 			"version": 37,
 			"versionNonce": 831970982,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1769824460354,
 			"locked": false,
 			"text": "sudo lsof -i :80\n# OR\nsudo netstat -tulpn | grep :80\n",
@@ -1120,7 +1123,90 @@
 			"originalText": "sudo lsof -i :80\n# OR\nsudo netstat -tulpn | grep :80\n",
 			"autoResize": true,
 			"lineHeight": 1.25,
-			"hasTextLink": false
+			"hasTextLink": false,
+			"link": null
+		},
+		{
+			"id": "0GQeBeL-UeHSoCSVAH6TL",
+			"type": "line",
+			"x": -376.2068543273848,
+			"y": 1776.311497021803,
+			"width": 1307.1263763633256,
+			"height": 16.35172036714448,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ae",
+			"roundness": {
+				"type": 2
+			},
+			"seed": 360651878,
+			"version": 111,
+			"versionNonce": 1345528038,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1769880942797,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1307.1263763633256,
+					-16.35172036714448
+				]
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"polygon": false
+		},
+		{
+			"id": "fDsZGyfi",
+			"type": "text",
+			"x": -367.4009837545468,
+			"y": 1841.829725957308,
+			"width": 1360.4036865234375,
+			"height": 180,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ah",
+			"roundness": null,
+			"seed": 438551206,
+			"version": 149,
+			"versionNonce": 1990553318,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1769881000631,
+			"locked": false,
+			"text": "Argocd can be done via 3 ways:\n1) via UI\n2) via CLI\n3) via Declarative manifests file (can e stored in github for complete devops)",
+			"rawText": "Argocd can be done via 3 ways:\n1) via UI\n2) via CLI\n3) via Declarative manifests file (can e stored in github for complete devops)",
+			"fontSize": 36,
+			"fontFamily": 5,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Argocd can be done via 3 ways:\n1) via UI\n2) via CLI\n3) via Declarative manifests file (can e stored in github for complete devops)",
+			"autoResize": true,
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1134,16 +1220,16 @@
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 5,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 36,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 650.5155437995403,
-		"scrollY": -786.0123899998817,
+		"scrollX": 812.2986964591638,
+		"scrollY": -166.75372069803907,
 		"zoom": {
-			"value": 0.808989
+			"value": 0.45048
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
