@@ -1131,8 +1131,8 @@
 			"type": "line",
 			"x": -376.2068543273848,
 			"y": 1776.311497021803,
-			"width": 1307.1263763633256,
-			"height": 16.35172036714448,
+			"width": 1320.671946380864,
+			"height": 6.224000009982774,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1148,11 +1148,11 @@
 				"type": 2
 			},
 			"seed": 360651878,
-			"version": 111,
-			"versionNonce": 1345528038,
+			"version": 136,
+			"versionNonce": 943682170,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1769880942797,
+			"boundElements": [],
+			"updated": 1769883320643,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1161,23 +1161,24 @@
 					0
 				],
 				[
-					1307.1263763633256,
-					-16.35172036714448
+					1320.671946380864,
+					6.224000009982774
 				]
 			],
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null,
-			"polygon": false
+			"polygon": false,
+			"hasTextLink": false
 		},
 		{
 			"id": "fDsZGyfi",
 			"type": "text",
 			"x": -367.4009837545468,
 			"y": 1841.829725957308,
-			"width": 1360.4036865234375,
-			"height": 180,
+			"width": 1360.4036865234382,
+			"height": 180.0000000000001,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1191,22 +1192,24 @@
 			"index": "ah",
 			"roundness": null,
 			"seed": 438551206,
-			"version": 149,
-			"versionNonce": 1990553318,
+			"version": 191,
+			"versionNonce": 1126589306,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1769881000631,
+			"boundElements": [],
+			"updated": 1769883327086,
 			"locked": false,
 			"text": "Argocd can be done via 3 ways:\n1) via UI\n2) via CLI\n3) via Declarative manifests file (can e stored in github for complete devops)",
 			"rawText": "Argocd can be done via 3 ways:\n1) via UI\n2) via CLI\n3) via Declarative manifests file (can e stored in github for complete devops)",
-			"fontSize": 36,
+			"fontSize": 36.00000000000003,
 			"fontFamily": 5,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Argocd can be done via 3 ways:\n1) via UI\n2) via CLI\n3) via Declarative manifests file (can e stored in github for complete devops)",
 			"autoResize": true,
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"link": null,
+			"hasTextLink": false
 		}
 	],
 	"appState": {
@@ -1226,10 +1229,10 @@
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"currentItemFrameRole": null,
-		"scrollX": 812.2986964591638,
-		"scrollY": -166.75372069803907,
+		"scrollX": 585.1107413903685,
+		"scrollY": -703.8036829820924,
 		"zoom": {
-			"value": 0.45048
+			"value": 0.65189
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,
